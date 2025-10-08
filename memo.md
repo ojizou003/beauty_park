@@ -5,5 +5,7 @@ https://www.beauty-park.jp/tokyo/cities/
 
 ## 2.県ごとにショップURLリストを取得
 district_url = "https://www.beauty-park.jp/tokyo/cities/"
-shop_url = "https://www.beauty-park.jp/tokyo/chiyoda-ku/"
-shop_url"https://www.beauty-park.jp/shop/205/"
+city_url = "https://www.beauty-park.jp/tokyo/chiyoda-ku/"
+
+## 3.ショップごとに情報を取得
+shop_url = "https://www.beauty-park.jp/shop/205/"

@@ -9,4 +9,4 @@ wheels/
 # Virtual environments
 .venv
 
-shopurls_by_district/
+shop_list_by_district/
